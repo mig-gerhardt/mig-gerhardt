@@ -6,11 +6,11 @@ CS student at IFPR · Undergraduate researcher
 
 ## About
 
-I'm a computer science student at IFPR Campus Pinhais, currently doing undergraduate research on DevOps. I'm mostly interested in the theoretical side of computing — AI fundamentals, algorithms, and how systems work under the hood.
+I'm a computer science student at IFPR Campus Pinhais.
 
 ## Currently
 
-- 📚 Studying: Linear Algebra, Discrete Mathematics, Intro to Programming (C++)
+- 📚 Studying: Discrete Mathematics, Intro to Programming (C++)
 - 🔬 Researching: DevOps practices (IC @ IFPR)
 - 📍 Pinhais, Paraná — Brazil
 
