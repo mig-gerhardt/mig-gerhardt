@@ -38,7 +38,7 @@ Outside computing: cinema, literature, philosophy, photography.
 
 | Repository | Description |
 |---|---|
-| [**introducao-a-programacao**](https://github.com/mig-gerhardt/introducao-a-programacao) | Exercises and assignments from my Intro to Programming course at IFPR — C++|
+| [**introducao-a-programacao**](https://github.com/mig-gerhardt/introducao-a-programacao-ifpr) | Exercises and assignments from my Intro to Programming course at IFPR — C++|
 | ... | ... |
 | ... | ... |
 
