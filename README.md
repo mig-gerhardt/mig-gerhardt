@@ -1,5 +1,3 @@
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/36c8d175-2a1a-4802-be48-4e765c4874e9" /><div align="center">
-
 # Miguel Gerhardt
 
 **Computer Science Student · IFPR Campus Pinhais, Brazil**
