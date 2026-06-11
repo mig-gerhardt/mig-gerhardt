@@ -39,6 +39,5 @@ Outside of computing, my interest span cinema, literature, philosophy, and photo
 | Repository | Description |
 |---|---|
 | [**introducao-a-programacao**](https://github.com/mig-gerhardt/introducao-a-programacao-ifpr) | Exercises and assignments from my Intro to Programming course at IFPR — C++|
-| ... | ... |
-| ... | ... |
+|  |  |
 
