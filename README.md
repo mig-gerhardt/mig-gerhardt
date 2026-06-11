@@ -1,16 +1,21 @@
-## Hi there 👋
+# Miguel Gerhardt
 
-<!--
-**mig-gerhardt/mig-gerhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at IFPR · Undergraduate researcher
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I'm a computer science student at IFPR Campus Pinhais, currently doing undergraduate research on DevOps. I'm mostly interested in the theoretical side of computing — AI fundamentals, algorithms, and how systems work under the hood.
+
+## Currently
+
+- 📚 Studying: Linear Algebra, Discrete Mathematics, Intro to Programming (C++)
+- 🔬 Researching: DevOps practices (IC @ IFPR)
+- 📍 Pinhais, Paraná — Brazil
+
+## Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
