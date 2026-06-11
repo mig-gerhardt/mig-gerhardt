@@ -42,10 +42,7 @@ Fora da computação, gosto de cinema, literatura, filosofia e fotografia.
 ### Repositórios
 
 | Repositório | Descrição |
-|---|---|
-| [`fup-exercicios`](https://github.com/SEU_USERNAME/fup-exercicios) | Exercícios de Introdução à Programação em C++ |
-| [`ic-devops`](https://github.com/SEU_USERNAME/ic-devops) | Estudos e materiais do projeto de IC em DevOps |
-| [`matematica-discreta`](https://github.com/SEU_USERNAME/matematica-discreta) | Anotações e exercícios de Matemática Discreta |
+
 
 ---
 
@@ -53,9 +50,9 @@ Fora da computação, gosto de cinema, literatura, filosofia e fotografia.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mig-gerhardt&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mig-gerhardt&layout=compact&hide_border=true&theme=default)
 
 </div>
 
