@@ -12,9 +12,9 @@
 
 ### Currently
 
-- 🔬 Scientific Initiation in **DevOps** — IFPR (advisor: Prof. Lauriana Paludo)
-- 💻 Learning **C++** — data structures, algorithms, fundamentals
-- 📖 Reading: **The stranger** — Albert Camus
+-  Scientific Initiation in **DevOps** — IFPR (advisor: Prof. Lauriana Paludo)
+-  Learning **C++** — data structures, algorithms, fundamentals
+-  Reading: **The stranger** — Albert Camus
 
 Outside computing: cinema, literature, philosophy, photography.
 
