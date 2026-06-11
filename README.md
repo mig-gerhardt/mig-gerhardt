@@ -1,3 +1,5 @@
+<div align="center">
+
 # Miguel Gerhardt
 
 **Computer Science Student · IFPR Campus Pinhais, Brazil**
@@ -8,19 +10,13 @@
 
 ---
 
-### About me
-
-I'm a CS undergraduate at IFPR Campus Pinhais. I'm currently involved in a **Scientific Initiation project on DevOps** and aim to pursue an academic career — master's and PhD.
-
-Outside computing, I enjoy cinema, literature, philosophy, and photography.
-
----
-
 ### Currently
 
-- 🔬 Scientific Initiation in **DevOps** — IFPR (advisor: Profa. Lauriana Paludo)
+- 🔬 Scientific Initiation in **DevOps** — IFPR (advisor: Prof. Lauriana Paludo)
 - 💻 Learning **C++** — data structures, algorithms, fundamentals
-- 📖 Reading *...* — ...
+- 📖 Reading *The stranger* — Albert Camus
+
+Outside computing: cinema, literature, philosophy, photography.
 
 ---
 
@@ -42,6 +38,9 @@ Outside computing, I enjoy cinema, literature, philosophy, and photography.
 
 | Repository | Description |
 |---|---|
+| ... | ... |
+| ... | ... |
+| ... | ... |
 
 ---
 
