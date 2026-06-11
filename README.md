@@ -12,12 +12,11 @@
 
 ### Currently
 
--  Scientific Initiation in **DevOps** — IFPR (advisor: Prof. Lauriana Paludo)
+-  Scientific Initiation in **DevOps** — IFPR (advisor: Profa. Lauriana Paludo)
 -  Learning **C++** — data structures, algorithms, fundamentals
 -  Reading: **The stranger** — Albert Camus
 
-Outside computing: cinema, literature, philosophy, photography.
-
+Outside of computing, my interests span cinema, literature, philosophy, and photography
 ---
 
 ### Tools & Technologies
