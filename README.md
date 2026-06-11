@@ -38,24 +38,7 @@ Outside computing: cinema, literature, philosophy, photography.
 
 | Repository | Description |
 |---|---|
+| [**introducao-a-programacao**](https://github.com/mig-gerhardt/introducao-a-programacao) | Exercises and assignments from my Intro to Programming course at IFPR — C++|
 | ... | ... |
 | ... | ... |
-| ... | ... |
 
----
-
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mig-gerhardt&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=stars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mig-gerhardt&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-<div align="center">
-<sub>IFPR Campus Pinhais · São José dos Pinhais, PR · Brazil</sub>
-</div>
