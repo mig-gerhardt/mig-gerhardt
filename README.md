@@ -16,7 +16,8 @@
 -  Learning **C++** — data structures, algorithms, fundamentals
 -  Reading: **The stranger** — Albert Camus
 
-Outside of computing, my interests span cinema, literature, philosophy, and photography
+Outside of computing, my interest span cinema, literature, philosophy, and photography
+
 ---
 
 ### Tools & Technologies
