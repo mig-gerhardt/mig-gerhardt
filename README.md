@@ -1,31 +1,32 @@
-<div align="center">
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/36c8d175-2a1a-4802-be48-4e765c4874e9" /><div align="center">
 
-# Miguel
+# Miguel Gerhardt
 
-**Estudante de Ciência da Computação · IFPR Campus Pinhais**
+**Computer Science Student · IFPR Campus Pinhais, Brazil**
 
-*Interesses em fundamentos teóricos de computação*
+*Interests in theoretical CS foundations, AI, and quantum computing*
 
 </div>
 
 ---
 
-### Sobre mim
+### About me
 
-Sou estudante de BCC no IFPR Campus Pinhais, com foco em fundamentos teóricos da computação — me interesso mais pela estrutura matemática e lógica. Atualmente participo de um projeto de **Iniciação Científica em DevOps** e pretendo seguir carreira acadêmica (mestrado e doutorado).
+I'm a CS undergraduate at IFPR Campus Pinhais. I'm currently involved in a **Scientific Initiation project on DevOps** and aim to pursue an academic career — master's and PhD.
 
-Fora da computação, gosto de cinema, literatura, filosofia e fotografia.
-
----
-
-### Atualmente
-
-- 🔬 Iniciação Científica em **DevOps** — IFPR (orientação: Prof. Lauriana Paludo)
-- 💻 Aprendendo **C++** (estruturas de dados, algoritmos, programação funcional)
+Outside computing, I enjoy cinema, literature, philosophy, and photography.
 
 ---
 
-### Ferramentas & Tecnologias
+### Currently
+
+- 🔬 Scientific Initiation in **DevOps** — IFPR (advisor: Profa. Lauriana Paludo)
+- 💻 Learning **C++** — data structures, algorithms, fundamentals
+- 📖 Reading *...* — ...
+
+---
+
+### Tools & Technologies
 
 <div align="left">
 
@@ -39,14 +40,14 @@ Fora da computação, gosto de cinema, literatura, filosofia e fotografia.
 
 ---
 
-### Repositórios
+### Repositories
 
-| Repositório | Descrição |
-
+| Repository | Description |
+|---|---|
 
 ---
 
-### Estatísticas
+### Stats
 
 <div align="center">
 
@@ -59,5 +60,5 @@ Fora da computação, gosto de cinema, literatura, filosofia e fotografia.
 ---
 
 <div align="center">
-<sub>IFPR Campus Pinhais · São José dos Pinhais, PR</sub>
+<sub>IFPR Campus Pinhais · São José dos Pinhais, PR · Brazil</sub>
 </div>
