@@ -14,7 +14,7 @@
 
 -  Scientific Initiation in **DevOps** — IFPR (advisor: Profa. Lauriana Paludo)
 -  Learning **C++** — data structures, algorithms, fundamentals
--  Reading: **The stranger** — Albert Camus
+-  Reading: **The Hour of the Star** — Clarice Lispector
 
 Outside of computing, my interest span cinema, literature, philosophy, and photography
 
