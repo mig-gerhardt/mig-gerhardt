@@ -4,8 +4,6 @@
 
 **Computer Science Student · IFPR Campus Pinhais, Brazil**
 
-*Interests in theoretical CS foundations, AI, and quantum computing*
-
 </div>
 
 ---
@@ -13,7 +11,6 @@
 ### Currently
 
 -  Scientific Initiation in **DevOps** — IFPR (advisor: Profa. Lauriana Paludo)
--  Learning **C++** — data structures, algorithms, fundamentals
 -  Reading: **The Hour of the Star** — Clarice Lispector
 
 Outside of computing, my interest span cinema, literature, philosophy, and photography
