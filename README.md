@@ -11,7 +11,7 @@
 ### Currently
 
 -  Scientific Initiation in **DevOps** — IFPR (advisor: Profa. Lauriana Paludo)
--  Reading: **The Hour of the Star** — Clarice Lispector
+-  Reading: **One Hundred Days Between Sky and Sea** — Amyr Klink
 
 Outside of computing, my interest span cinema, literature, philosophy, and photography
 
@@ -35,6 +35,5 @@ Outside of computing, my interest span cinema, literature, philosophy, and photo
 
 | Repository | Description |
 |---|---|
-| [**introducao-a-programacao**](https://github.com/mig-gerhardt/introducao-a-programacao-ifpr) | Exercises and assignments from my Intro to Programming course at IFPR — C++|
 |  |  |
 
