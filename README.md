@@ -2,22 +2,22 @@
 
 # Miguel Gerhardt
 
-**Computer Science Student · IFPR Campus Pinhais, Brazil**
+**Estudante de Ciência da Computação · IFPR Campus Pinhais, Brasil**
 
 </div>
 
 ---
 
-### Currently
+### No momento
 
--  Scientific Initiation in **DevOps** — IFPR (advisor: Profa. Lauriana Paludo)
--  Reading: **One Hundred Days Between Sky and Sea** — Amyr Klink
+- Iniciação Científica em DevOps — IFPR (orientadora: Profa. Lauriana Paludo)
+- Lendo: Cem Dias Entre Céu e Mar — Amyr Klink
 
-Outside of computing, my interest span cinema, literature, philosophy, and photography
+Fora da computação, meus interesses incluem cinema, literatura, filosofia e fotografia
 
 ---
 
-### Tools & Technologies
+### Ferramentas & Tecnologias
 
 <div align="left">
 
