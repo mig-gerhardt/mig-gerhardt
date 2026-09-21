@@ -11,8 +11,8 @@
 ### No momento
 
 - Iniciação Científica em DevOps — IFPR (orientadora: Profa. Lauriana Paludo)
-- Lendo: Cem Dias Entre Céu e Mar — Amyr Klink
-
+- Lendo: Justiça — Michael J Sandel
+- 
 Fora da computação, meus interesses incluem cinema, literatura, filosofia e fotografia
 
 ---
