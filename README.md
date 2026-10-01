@@ -11,7 +11,7 @@
 ### No momento
 
 - Iniciação Científica em DevOps — IFPR (orientadora: Profa. Lauriana Paludo)
-- Lendo: Justiça — Michael J Sandel
+- Lendo: Crônica de uma Morte Anunciada — Gabriel García Márquez
 - 
 Fora da computação, meus interesses incluem cinema, literatura, filosofia e fotografia
 
