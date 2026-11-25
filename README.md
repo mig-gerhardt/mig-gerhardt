@@ -10,9 +10,8 @@
 
 ### No momento
 
-- Iniciação Científica em DevOps — IFPR (orientadora: Profa. Lauriana Paludo)
-- Lendo: Crônica de uma Morte Anunciada — Gabriel García Márquez
-- 
+- Projeto em DevOps — IFPR (orientadora: Profa. Lauriana Paludo)
+
 Fora da computação, meus interesses incluem cinema, literatura, filosofia e fotografia
 
 ---
